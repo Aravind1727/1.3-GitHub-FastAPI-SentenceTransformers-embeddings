@@ -1,1 +1,1 @@
-# 1.3-GitHub-FastAPI-SentenceTransformers-embeddings
+# 1.3-Chat API
